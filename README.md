@@ -1,7 +1,10 @@
 README: Neuronal Waveform Clustering and Analysis
 
 link to final report: https://github.com/neoygaj/CSPB-4502-project/blob/main/Group4_NeuropixelsSC_part6.pdf
+
 link to presentation video: https://docs.google.com/presentation/d/1wVzuiJVp7N91mW8bf3h_fO76gJ7nWOxDwa2aKIMaZ9A/edit?usp=sharing
+
+youtube link to presentation video: https://youtu.be/3Fx8aGswitU
 
 Overview
 
